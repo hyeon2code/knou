@@ -1,0 +1,3 @@
+# 로그성 파일 ignore
+*.log
+*.tlog
