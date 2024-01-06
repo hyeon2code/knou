@@ -27,4 +27,3 @@ public class ThisTest {
 		System.out.println(mc.x);
 	}
 }
-l
